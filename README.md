@@ -1,4 +1,4 @@
-# comp140-gam160-game
+# comp140-gam160-game Jack Maber
 Repository for Assignment 1 of COMP140-GAM160
 
 **General Game Idea Overview**
