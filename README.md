@@ -25,9 +25,8 @@ The next alternative controller that spiked my interest was The Winds Of Venus (
 The last controller that I researched was the Steel Batallion controller (https://tinyurl.com/j5gx3ku), although not a homebrew device, it technically is an "alternative controller", this is closest controller I can find to the image in my mind of what I want my device to look like, although not as with many buttons, but the heavy use of joysticks and toggle switches is what it to my attention and the fact that it is used to control a game in a similar vein to my own, the way it's designed and the hardware that it uses will defienetly aid me in my own design process 
 
 **Physical Controller Description**
-My controller will require the use of a large base to give adequate room for all of the controls and allow for a decent amount of space between the sticks so that the player's hands do not collide and affect the inputs. The joysticks would be only slightly higher than the tops of the player's hands to allow them to depress the buttons on top to fire the weapons. In the space inbetween the sticks will be the keypad that the player will use to defuse the bomb and the above that will be the toggle switch that will switch between the players two weapons.  
+My controller will require the use of a large base to give adequate room for all of the controls and allow for a decent amount of space between the sticks so that the player's hands do not collide and affect the inputs. The joysticks would be only slightly higher than the tops of the player's hands to allow them to depress the buttons on top to fire the weapons. In the space inbetween the sticks will be the keypad that the player will use to defuse the bomb and the below that will be the toggle switch that will switch between the players two weapons.  
 
 **Controller Design**
-
 
 ![Controller](https://github.com/jack-maber/comp140-gam160-game/blob/master/Controller.png)
