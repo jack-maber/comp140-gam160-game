@@ -30,3 +30,4 @@ My controller will require the use of a large base to give adequate room for all
 **Controller Design**
 
 ![Controller](https://github.com/jack-maber/comp140-gam160-game/blob/master/Controller.png)
+![Controller2](https://github.com/jack-maber/comp140-gam160-game/blob/master/Controller2.png)
