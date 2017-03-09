@@ -28,4 +28,4 @@ The last controller that I researched was the Steel Batallion controller (https:
 My controller will require the use of a large base to give adequate room for all of the controls and allow for a decent amount of space between the sticks so that the player's hands do not collide and affect the inputs. The joysticks would be only slightly higher than the tops of the player's hands to allow them to depress the buttons on top to fire the weapons. In the space inbetween the sticks will be the keypad that the player will use to defuse the bomb and the above that will be the toggle switch that will switch between the players two weapons.  
 
 **Controller Design**
-![](https://www.dropbox.com/s/s4sne94b8q19e10/Controller.png?dl=0)
+![](https://photos-3.dropbox.com/t/2/AACQjyrUtYg6rgnDjllAQm6mW_I6PycRbaljXq4l3wq1Sw/12/329061591/png/32x32/1/_/1/2/Controller.png/EMK88MYCGDggBygH/4RtNQbOsB2NBgQ2aMw-48n2bx0B_i6jkzEUrke5qJZI?size=1600x1200&size_mode=3)
