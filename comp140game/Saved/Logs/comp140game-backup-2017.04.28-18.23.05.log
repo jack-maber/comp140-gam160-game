@@ -1,0 +1,29 @@
+﻿Log file open, 04/28/17 18:14:37
+LogInit:Display: Running engine for game: comp140game
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(131974733) SRandInit(131974768).
+LogTaskGraph: Started task graph with 4 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 1.743983
+LogModuleManager:Warning: Found module file E:/New folder/comp140-gam160-game/comp140game/Binaries/Win64/UE4Editor-comp140game.dll (API version 0), but it was incompatible with the current engine API version (2992821). This is likely a stale module that must be recompiled.
+LogInit:Warning: Incompatible or missing module: UE4Editor-comp140game.dll
+Running C:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe comp140game Development Win64 -project="E:/New folder/comp140-gam160-game/comp140game/comp140game.uproject" -editorrecompile -progress -noubtmakefiles -NoHotReloadFromIDE
+LogModuleManager:Warning: Found module file E:/New folder/comp140-gam160-game/comp140game/Binaries/Win64/UE4Editor-comp140game.dll (API version 0), but it was incompatible with the current engine API version (2992821). This is likely a stale module that must be recompiled.
+LogInit:Warning: Still incompatible or missing module: UE4Editor-comp140game.dll
+LogExit: Preparing to exit.
+LogModuleManager: Shutting down and abandoning module DesktopPlatform (15)
+LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+LogModuleManager: Shutting down and abandoning module Landscape (12)
+LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+LogModuleManager: Shutting down and abandoning module Renderer (7)
+LogModuleManager: Shutting down and abandoning module Engine (6)
+LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+LogModuleManager: Shutting down and abandoning module PakFile (1)
+LogExit: Exiting.
+Log file closed, 04/28/17 18:16:45
