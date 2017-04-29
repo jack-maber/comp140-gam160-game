@@ -1,6 +1,6 @@
 #define SERIAL_BUFFER_SIZE 256
 
-//Inputs 
+//ASSIGNS INPUTS TO PINS ON THE BOARD 
 int xPinL = A1;
 int yPinL = A0;
 int yPinR = A3;
@@ -13,7 +13,7 @@ int keypad4 = 5;
 int fire = 7;
 
 
-//Variables
+//CREATES VARIABLES FOR THE INPUTS TO USE 
 int xPositionL = 0;
 int yPositionL = 0;
 int xPositionR = 0;
@@ -26,7 +26,7 @@ int Button4 = 0;
 int firetoggle = 0;
 
 void setup() {
-  
+  //GIVES THE INPUT PIN A MODE, SUCH AS IF IT NEEDS AN INLINE RESISITOR, PULLUP IS USED 
   Serial.begin(115200); //Sets Serial Com Rate
   pinMode(xPinL, INPUT);
   pinMode(yPinL, INPUT);
@@ -69,7 +69,7 @@ void loop() {
   //Serial.print(Button3);
   //Serial.print(Button4);
 
-  //CONVERTS INTS TO STRINGS
+  //CONVERTS INTS TO STRINGS SO THAT THEY CAN BE PARSED INTO THE ARRAY BY THE C++ CODE
   String xL =  String(analogRead(xPinL));
   String yL =  String(analogRead(yPinL));
   String xR =  String(analogRead(xPinR));
